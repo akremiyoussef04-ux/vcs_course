@@ -1,4 +1,6 @@
 git init 
 git add dcmnt1.txt
 git commit -m "First Commit"
-hi
+type nul > .gitignore
+git log 
+git clone

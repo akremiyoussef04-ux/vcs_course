@@ -1,1 +1,4 @@
-git init
+git init 
+git add dcmnt1.txt
+git commit -m "First Commit"
+hi
